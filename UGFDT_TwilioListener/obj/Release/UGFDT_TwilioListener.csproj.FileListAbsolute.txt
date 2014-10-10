@@ -1,0 +1,15 @@
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFDT_TwilioListener.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFDT_TwilioListener.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\EntityFramework.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFDAL.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFitModel.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGitFitTrackingDomain.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\Twilio.Api.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\Newtonsoft.Json.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFitModel.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGitFitTrackingDomain.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\obj\Release\UGFDT_TwilioListener.csprojResolveAssemblyReference.cache
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\obj\Release\UGFDT_TwilioListener.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\obj\Release\UGFDT_TwilioListener.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFDAL.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\EntityFramework.xml

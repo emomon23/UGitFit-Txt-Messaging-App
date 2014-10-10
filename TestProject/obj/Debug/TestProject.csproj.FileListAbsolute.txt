@@ -1,0 +1,30 @@
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\bin\Debug\TestProject.dll.config
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\bin\Debug\TestProject.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\bin\Debug\TestProject.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\bin\Debug\EntityFramework.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\bin\Debug\UGFDAL.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\bin\Debug\UGFitModel.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\bin\Debug\UGitFitTrackingDomain.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\bin\Debug\UGFDAL.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\bin\Debug\UGFitModel.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\bin\Debug\UGitFitTrackingDomain.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\bin\Debug\EntityFramework.xml
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\obj\Debug\TestProject.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\TestProject\obj\Debug\TestProject.pdb
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\TestProject.dll.config
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\TestProject.dll
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\TestProject.pdb
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\EntityFramework.dll
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\UGFDAL.dll
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\UGFitModel.dll
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\UGitFitTrackingDomain.dll
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\UGFDAL.pdb
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\UGFitModel.pdb
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\UGitFitTrackingDomain.pdb
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\EntityFramework.xml
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\obj\Debug\TestProject.dll
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\obj\Debug\TestProject.pdb
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\UGFDAL_Accessor.dll
+C:\Projects\uGitFitPhoneTxtMsg\TestProject\bin\Debug\UGFDAL_Accessor.pdb

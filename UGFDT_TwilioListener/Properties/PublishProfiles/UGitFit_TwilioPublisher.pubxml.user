@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2013-03-17T14:54:19.8201202-05:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Create_RetrieveUserschedulesToSendSQL.txt">
+      <publishTime>02/28/2013 21:43:45</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>04/02/2013 11:07:02</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/01/2012 11:09:36</publishTime>
+    </File>
+    <File Include="bin/Twilio.Api.dll">
+      <publishTime>07/01/2012 11:09:37</publishTime>
+    </File>
+    <File Include="bin/UGFDAL.dll">
+      <publishTime>05/24/2013 23:07:03</publishTime>
+    </File>
+    <File Include="bin/UGFDAL.pdb">
+      <publishTime>03/17/2013 14:54:11</publishTime>
+    </File>
+    <File Include="bin/UGFDataTracking.dll">
+      <publishTime>07/01/2012 11:00:56</publishTime>
+    </File>
+    <File Include="bin/UGFDataTracking.pdb">
+      <publishTime>07/01/2012 11:00:56</publishTime>
+    </File>
+    <File Include="bin/UGFDT_TwilioListener.dll">
+      <publishTime>05/24/2013 23:07:04</publishTime>
+    </File>
+    <File Include="bin/UGFDT_TwilioListener.pdb">
+      <publishTime>03/17/2013 14:54:11</publishTime>
+    </File>
+    <File Include="bin/UGFitModel.dll">
+      <publishTime>05/24/2013 23:07:03</publishTime>
+    </File>
+    <File Include="bin/UGFitModel.pdb">
+      <publishTime>03/17/2013 14:54:10</publishTime>
+    </File>
+    <File Include="bin/UGitFitTrackingDomain.dll">
+      <publishTime>05/24/2013 23:07:03</publishTime>
+    </File>
+    <File Include="bin/UGitFitTrackingDomain.pdb">
+      <publishTime>03/17/2013 14:54:11</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>03/17/2013 13:37:01</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/23/2013 12:41:37</publishTime>
+    </File>
+    <File Include="IntegrationTest.aspx">
+      <publishTime>03/24/2013 18:40:20</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/24/2013 22:31:38</publishTime>
+    </File>
+    <File Include="TextMsgHandler.aspx">
+      <publishTime>03/17/2013 13:37:01</publishTime>
+    </File>
+    <File Include="ugfService.asmx">
+      <publishTime>04/07/2013 01:43:09</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/24/2013 23:11:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

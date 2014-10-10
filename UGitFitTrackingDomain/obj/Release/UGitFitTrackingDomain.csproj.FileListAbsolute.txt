@@ -1,0 +1,15 @@
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\UGitFitTrackingDomain.dll.config
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\UGitFitTrackingDomain.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\UGitFitTrackingDomain.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\EntityFramework.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\Newtonsoft.Json.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\RestSharp.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\Twilio.Api.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\UGFDAL.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\UGFitModel.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\UGFitModel.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\obj\Release\UGitFitTrackingDomain.csprojResolveAssemblyReference.cache
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\obj\Release\UGitFitTrackingDomain.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\obj\Release\UGitFitTrackingDomain.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\UGFDAL.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Release\EntityFramework.xml

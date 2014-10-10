@@ -1,0 +1,27 @@
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\bin\Debug\UGFDAL.dll.config
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\bin\Debug\UGFDAL.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\bin\Debug\UGFDAL.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\bin\Debug\EntityFramework.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\bin\Debug\UGFitModel.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\bin\Debug\UGitFitTrackingDomain.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\bin\Debug\UGFitModel.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\bin\Debug\UGitFitTrackingDomain.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\bin\Debug\EntityFramework.xml
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\obj\Debug\UGFDAL.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDAL\obj\Debug\UGFDAL.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDAL\bin\Debug\Twilio.Api.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDAL\bin\Debug\Create_RetrieveUserschedulesToSendSQL.txt
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDAL\bin\Debug\Twilio.Api.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDAL\bin\Debug\Twilio.Api.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDAL\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\obj\Debug\UGFDAL.csprojResolveAssemblyReference.cache
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\obj\Debug\UGFDAL.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Debug\UGFDAL.dll.config
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Debug\UGFDAL.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Debug\UGFDAL.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Debug\UGFitModel.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Debug\UGFitModel.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\obj\Debug\UGFDAL.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Debug\EntityFramework.dll

@@ -1,0 +1,17 @@
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\bin\Debug\GeneralUGFTestharness_WinForms.exe
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\bin\Debug\GeneralUGFTestharness_WinForms.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\bin\Debug\GitFitDAL.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\bin\Debug\GitFitFacade.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\bin\Debug\GitFitDAL.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\bin\Debug\GitFitFacade.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\obj\x86\Debug\GeneralUGFTestharness_WinForms.Form1.resources
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\obj\x86\Debug\GeneralUGFTestharness_WinForms.Properties.Resources.resources
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\obj\x86\Debug\GeneralUGFTestharness_WinForms.exe
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\obj\x86\Debug\GeneralUGFTestharness_WinForms.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\GeneralUGFTestharness_WinForms\bin\Debug\GeneralUGFTestharness_WinForms.exe.config
+C:\Projects\uGitFitPhoneTxtMsg\GeneralUGFTestharness_WinForms\bin\Debug\GeneralUGFTestharness_WinForms.exe.config
+C:\Projects\uGitFitPhoneTxtMsg\GeneralUGFTestharness_WinForms\obj\x86\Debug\GeneralUGFTestharness_WinForms.exe
+C:\Projects\uGitFitPhoneTxtMsg\GeneralUGFTestharness_WinForms\obj\x86\Debug\GeneralUGFTestharness_WinForms.pdb

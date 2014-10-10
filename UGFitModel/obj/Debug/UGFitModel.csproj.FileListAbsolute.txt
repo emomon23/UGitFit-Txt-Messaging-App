@@ -1,0 +1,14 @@
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGFitModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGFitModel\bin\Debug\UGFitModel.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGFitModel\bin\Debug\UGFitModel.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGFitModel\obj\Debug\UGFitModel.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGFitModel\obj\Debug\UGFitModel.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGFitModel\bin\Debug\UGFitModel.dll.config
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGFitModel\bin\Debug\EntityFramework.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGFitModel\bin\Debug\EntityFramework.xml
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\bin\Debug\UGFitModel.dll.config
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\bin\Debug\UGFitModel.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\bin\Debug\UGFitModel.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\obj\Debug\UGFitModel.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\obj\Debug\UGFitModel.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\bin\Debug\EntityFramework.dll

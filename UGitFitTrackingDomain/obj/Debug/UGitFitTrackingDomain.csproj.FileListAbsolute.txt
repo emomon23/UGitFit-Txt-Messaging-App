@@ -1,0 +1,44 @@
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGitFitTrackingDomain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\UGitFitTrackingDomain.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\UGitFitTrackingDomain.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\UGFitModel.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\UGFitModel.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGitFitTrackingDomain\obj\Debug\UGitFitTrackingDomain.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGitFitTrackingDomain\obj\Debug\UGitFitTrackingDomain.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\UGitFitTrackingDomain.dll.config
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\EntityFramework.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\EntityFramework.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\RestSharp.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\Twilio.Api.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\RestSharp.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\Twilio.Api.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGitFitTrackingDomain\bin\Debug\Twilio.Api.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\obj\Debug\UGitFitTrackingDomain.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\UGitFitTrackingDomain.dll.config
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\UGitFitTrackingDomain.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\UGitFitTrackingDomain.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\UGFitModel.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\UGFitModel.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\obj\Debug\UGitFitTrackingDomain.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\EntityFramework.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\EntityFramework.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\RestSharp.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\Twilio.Api.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\RestSharp.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\Twilio.Api.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGitFitTrackingDomain\bin\Debug\Twilio.Api.xml
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\obj\Debug\UGitFitTrackingDomain.csprojResolveAssemblyReference.cache
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\obj\Debug\UGitFitTrackingDomain.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\obj\Debug\UGitFitTrackingDomain.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Debug\UGitFitTrackingDomain.dll.config
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Debug\UGitFitTrackingDomain.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Debug\UGitFitTrackingDomain.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Debug\UGFitModel.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Debug\UGFitModel.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Debug\UGFDAL.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGitFitTrackingDomain\bin\Debug\UGFDAL.pdb

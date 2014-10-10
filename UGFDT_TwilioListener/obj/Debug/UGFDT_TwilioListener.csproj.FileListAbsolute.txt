@@ -1,0 +1,52 @@
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\UGFDT_TwilioListener.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\UGFDT_TwilioListener.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\EntityFramework.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\UGFDAL.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\UGFDataTracking.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\UGFitModel.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\UGitFitTrackingDomain.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\UGFDAL.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\UGFDataTracking.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\UGFitModel.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\UGitFitTrackingDomain.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\EntityFramework.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\obj\Debug\UGFDT_TwilioListener.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\obj\Debug\UGFDT_TwilioListener.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\Twilio.Api.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\Newtonsoft.Json.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\Twilio.Api.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\Twilio.Api.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFitModel\UGFDT_TwilioListener\bin\Newtonsoft.Json.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\obj\Debug\UGFDT_TwilioListener.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\UGFDT_TwilioListener.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\UGFDT_TwilioListener.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\UGFDAL.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\UGFDataTracking.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\UGFitModel.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\UGitFitTrackingDomain.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\Twilio.Api.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\Newtonsoft.Json.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\UGFDAL.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\UGFDataTracking.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\UGFitModel.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\UGitFitTrackingDomain.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\obj\Debug\UGFDT_TwilioListener.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\Create_RetrieveUserschedulesToSendSQL.txt
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\EntityFramework.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\UGFDT_TwilioListener\bin\EntityFramework.xml
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFDT_TwilioListener.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFDT_TwilioListener.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFDAL.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFitModel.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGitFitTrackingDomain.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\Twilio.Api.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\Newtonsoft.Json.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFDAL.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGFitModel.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\UGitFitTrackingDomain.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\obj\Debug\UGFDT_TwilioListener.csprojResolveAssemblyReference.cache
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\obj\Debug\UGFDT_TwilioListener.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\obj\Debug\UGFDT_TwilioListener.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDT_TwilioListener\bin\EntityFramework.dll

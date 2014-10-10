@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://96.42.119.172:8080/ugfservice.asmx?wsdl" docRef="http://96.42.119.172:8080/ugfservice.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://96.42.119.172:8080/ugfservice.asmx" xmlns:q1="http://uGitFit.com/" binding="q1:ugfServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://96.42.119.172:8080/ugfservice.asmx" xmlns:q2="http://uGitFit.com/" binding="q2:ugfServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

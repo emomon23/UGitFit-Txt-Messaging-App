@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Publish\uGitFit" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="UGitFit_TwilioPublisher" publishMethod="FileSystem" replaceMatchingFiles="False" userName="ugitfit" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="03/17/2013 14:54:19" />
+    <file relUrl="bin/UGitFitTrackingDomain.pdb" publishTime="03/17/2013 14:54:11" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="06/05/2012 19:29:37" />
+    <file relUrl="bin/UGFitModel.pdb" publishTime="03/17/2013 14:54:10" />
+    <file relUrl="packages.config" publishTime="06/17/2012 10:32:39" />
+    <file relUrl="bin/Twilio.Api.dll" publishTime="07/01/2012 11:09:37" />
+    <file relUrl="bin/UGitFitTrackingDomain.dll" publishTime="03/17/2013 14:54:11" />
+    <file relUrl="bin/UGFDataTracking.dll" publishTime="07/01/2012 11:00:56" />
+    <file relUrl="bin/UGFDT_TwilioListener.dll" publishTime="03/17/2013 14:54:11" />
+    <file relUrl="bin/Create_RetrieveUserschedulesToSendSQL.txt" publishTime="02/28/2013 21:43:45" />
+    <file relUrl="bin/UGFDAL.dll" publishTime="03/17/2013 14:54:11" />
+    <file relUrl="bin/UGFDataTracking.pdb" publishTime="07/01/2012 11:00:56" />
+    <file relUrl="TextMsgHandler.aspx" publishTime="03/17/2013 13:37:01" />
+    <file relUrl="Global.asax" publishTime="02/23/2013 12:41:37" />
+    <file relUrl="bin/UGFitModel.dll" publishTime="03/17/2013 14:54:10" />
+    <file relUrl="bin/UGFDT_TwilioListener.pdb" publishTime="03/17/2013 14:54:11" />
+    <file relUrl="IntegrationTest.aspx" publishTime="02/24/2013 11:14:33" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="07/01/2012 11:09:36" />
+    <file relUrl="bin/UGFDAL.pdb" publishTime="03/17/2013 14:54:11" />
+    <file relUrl="Default.aspx" publishTime="03/17/2013 13:37:01" />
+  </publishProfile>
+</publishData>

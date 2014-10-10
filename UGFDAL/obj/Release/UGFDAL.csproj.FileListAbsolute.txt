@@ -1,0 +1,10 @@
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Release\UGFDAL.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Release\UGFDAL.dll.config
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Release\EntityFramework.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Release\UGFitModel.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Release\UGFitModel.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\obj\Release\UGFDAL.csprojResolveAssemblyReference.cache
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\obj\Release\UGFDAL.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\obj\Release\UGFDAL.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Release\UGFDAL.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDAL\bin\Release\EntityFramework.xml

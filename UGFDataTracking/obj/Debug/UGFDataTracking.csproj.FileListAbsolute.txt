@@ -1,0 +1,15 @@
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDataTracking\bin\UGFDataTracking.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDataTracking\bin\UGFDataTracking.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDataTracking\bin\EntityFramework.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDataTracking\bin\UGFitModel.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDataTracking\bin\UGFitModel.pdb
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDataTracking\bin\EntityFramework.xml
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDataTracking\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDataTracking\obj\Debug\UGFDataTracking.dll
+C:\Users\memo\documents\visual studio 2010\Projects\UGitFit\UGFDataTracking\obj\Debug\UGFDataTracking.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDataTracking\bin\UGFDataTracking.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDataTracking\bin\UGFDataTracking.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDataTracking\bin\EntityFramework.xml
+C:\Projects\uGitFitPhoneTxtMsg\UGFDataTracking\obj\Debug\UGFDataTracking.csprojResolveAssemblyReference.cache
+C:\Projects\uGitFitPhoneTxtMsg\UGFDataTracking\obj\Debug\UGFDataTracking.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDataTracking\obj\Debug\UGFDataTracking.pdb

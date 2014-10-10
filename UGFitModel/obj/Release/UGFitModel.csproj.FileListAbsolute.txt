@@ -1,0 +1,7 @@
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\bin\Release\UGFitModel.dll.config
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\bin\Release\UGFitModel.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\bin\Release\UGFitModel.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\bin\Release\EntityFramework.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\obj\Release\UGFitModel.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\obj\Release\UGFitModel.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFitModel\bin\Release\EntityFramework.xml

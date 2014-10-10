@@ -1,0 +1,13 @@
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\bin\Debug\ScheduledTextHandlers.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\bin\Debug\ScheduledTextHandlers.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\bin\Debug\Twilio.Api.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\bin\Debug\UGFitModel.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\bin\Debug\UGitFitTrackingDomain.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\bin\Debug\EntityFramework.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\bin\Debug\UGFitModel.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\bin\Debug\UGitFitTrackingDomain.pdb
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\bin\Debug\EntityFramework.xml
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\obj\Debug\ScheduledTextHandlers.dll
+C:\Users\memo\Documents\Visual Studio 2010\Projects\uGitFit\ScheduledTextHandlers\obj\Debug\ScheduledTextHandlers.pdb

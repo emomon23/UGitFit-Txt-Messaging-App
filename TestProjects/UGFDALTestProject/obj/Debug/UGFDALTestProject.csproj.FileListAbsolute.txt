@@ -1,0 +1,4 @@
+C:\Projects\uGitFitPhoneTxtMsg\TestProjects\UGFDALTestProject\bin\Debug\UGFDALTestProject.dll
+C:\Projects\uGitFitPhoneTxtMsg\TestProjects\UGFDALTestProject\bin\Debug\UGFDALTestProject.pdb
+C:\Projects\uGitFitPhoneTxtMsg\TestProjects\UGFDALTestProject\obj\Debug\UGFDALTestProject.dll
+C:\Projects\uGitFitPhoneTxtMsg\TestProjects\UGFDALTestProject\obj\Debug\UGFDALTestProject.pdb

@@ -1,0 +1,5 @@
+C:\Projects\uGitFitPhoneTxtMsg\UGFDataTracking\bin\UGFDataTracking.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDataTracking\bin\UGFDataTracking.pdb
+C:\Projects\uGitFitPhoneTxtMsg\UGFDataTracking\bin\EntityFramework.xml
+C:\Projects\uGitFitPhoneTxtMsg\UGFDataTracking\obj\Release\UGFDataTracking.dll
+C:\Projects\uGitFitPhoneTxtMsg\UGFDataTracking\obj\Release\UGFDataTracking.pdb

@@ -1,0 +1,109 @@
+﻿create PROCEDURE [dbo].[RetrieveRequestScheduleToSend]
+AS
+
+/***************************************************************************************
+Before retrieving the people to send texts to, mark anyone who hasn't responded
+to the last X # of days worth of tracking requests as suspended due to Unresponsivness
+****************************************************************************************/
+
+DECLARE @maxIgnores int = 15 --(3 X # of days. eg: 3x5=15)
+UPDATE People 
+SET IsSuspended = 1,
+	ReasonForSuspensionId = 'UNRESPONSIVE'
+WHERE PersonId IN
+    /*******************************************************************************************************
+    * THIRD: Get PeopleId list whose UnansweredTextCount (step SECOND), is greater than @maxIgnores
+    ********************************************************************************************************/
+	(SELECT PersonId
+	FROM
+	    /***********************************************************************************************
+	    * SECOND: For each person, get the number of tracking requests that have been sent to user
+	    *         that are > than the LastDateReplied field (from FIRST step), 
+	    *         this is the UnansweredTextcount
+	    ***********************************************************************************************/
+		(SELECT tr.PersonId, COUNT(*) AS UnansweredTextCount
+				FROM TrackingRequests tr
+				INNER JOIN
+				        /***********************************************************************************
+						*  FIRST: for each user, determine the last date they replied to a tracking request
+				        ************************************************************************************/
+						(SELECT p1.PersonId, IsNull(MAX(resp.DateReceived), '1/1/1900') as LastDateReplied
+							FROM People p1
+							INNER JOIN TrackingRequests req
+								ON p1.PersonId = req.PersonId
+							LEFT OUTER JOIN TrackingResponses resp
+								ON req.TrackingRequestId = resp.TrackingRequestId
+							Group by p1.PersonId
+						) lr
+				  ON tr.PersonId = lr.PersonId
+				WHERE TR.DateSent > lr.LastDateReplied
+				GROUP BY tr.PersonId
+		) uacount 
+	WHERE uacount.UnansweredTextCount > @maxIgnores)
+AND IsSuspended = 0
+AND DateDiff(day, CONVERT(DATETIME, isNull(ResumedDate, '1/1/1900')), getdate()) > 5
+
+DECLARE @utcTime datetime
+
+set @utcTime = GETUTCDATE()
+
+Select sc.*
+FROM
+    (SELECT tr.TrackingRequestId,  tz.CurrentLocalTime, 
+			 -- Get the next time to send a text message to this user
+			 -- Take the date/time that is in the UserSchedule (or DefaultSchedule) and add the number of days to get to todays date and time to send
+			 IsNull(us.OverrideTimeOfDayToSend, s.DefaultTimeOfDayToSend) + (DATEDIFF(day, IsNull(us.OverrideTimeOfDayToSend, s.DefaultTimeOfDayToSend), TZ.CurrentLocalTime))  As TimeToSendText,
+			
+			 -- The date this userschedule item was last texted to the user (1/1/1900 if never sent)
+			 ISNULL(tr.DateSent, '1/1/1900') as DateThisItemLastSent, 
+			 
+			 -- The hourse since THIS userschedule item was last sent to the the individual
+			 DATEDIFF(HOUR, ISNULL(tr.DateSent, '1/1/1900'), TZ.CurrentLocalTime) as HrsLastSent, 
+			 
+			 tz.ReferenceText as TimeZoneText, ls.Date_ANYScheduleItem_LastSent,
+			  s.Description, s.MealTypeId, s.ReferenceText as TextMsgReferenceText, s.TranslationXML, us.PersonId, us.ScheduleId, us.UserScheduleId,
+			  p.FirstName, p.EmailAddress, p.ClientStatusId, p.ReplyToSMS, p.LanguageId, pn.Digits as PhoneNumber, pn.IsDebugNumber 
+			FROM People p
+			INNER JOIN
+				 -- Get the current local time for each timezone 
+				 -- *** CurrentLocalTime
+				(Select *, DATEADD(hour, CurrentUTCOffset_InHours, @utcTime) As CurrentLocalTime
+				 FROM TimeZones) TZ
+			  on p.TimezoneId = TZ.TimeZoneId
+			INNER JOIN UserSchedules us
+			  on p.PersonId = us.PersonId
+			INNER JOIN DefaultSchedules s
+			  on us.ScheduleId = s.DefaultScheduleId
+			INNER JOIN PhoneNumbers pn
+			  on p.PersonId = pn.PersonId
+			INNER JOIN 
+				-- Get the last time we ever sent ANY scheduled text to this individual person, 
+				-- **  DateLastScheduleItemSent **
+				(SELECT psn.PersonId, ISNULL(MAX(trs.DateSent), '1/1/1900') as Date_ANYScheduleItem_LastSent
+				 From People psn
+				 LEFT OUTER JOIN TrackingRequests trs
+						ON trs.PersonId = psn.PersonId
+				 Group by psn.PersonId) ls
+			  On p.PersonId = ls.PersonId
+			-- JOIN any tracking requests that were texted to this individual
+			-- for each UserSchedule
+			LEFT OUTER JOIN TrackingRequests tr
+			  on us.UserScheduleId = tr.UserScheduleId
+			WHERE isNull(us.SuspendEndDate, '1/1/1900') < @utcTime
+			AND isNull(us.SuspendStartDate, '1/1/2900') > @utcTime
+			AND s.IsActive = 1
+			AND pn.IsActive = 1
+			AND p.ClientStatusId NOT IN ('SUSPENDED', 'SPAMMER_SUSPECT', 'TRIAL_PERIOD_EXPIRED', 'REGISTERED_PRE_CONFIRMED')
+			AND p.IsSuspended = 0
+	) SC
+-- Current local time is greater than the time we need to send an sms
+WHERE SC.CurrentLocalTime > SC.TimeToSendText
+
+
+-- Should make HrsLastSent a Period field read from the schedule
+AND SC.HrsLastSent >= 24
+
+AND SC.Date_ANYScheduleItem_LastSent < SC.TimeToSendText
+
+ORDER BY SC.TimeToSendText DESC 
+
